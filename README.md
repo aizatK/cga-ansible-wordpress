@@ -1,3 +1,3 @@
 # cga-website
-# Almas
+Almas
 Sample Website for docker website.
