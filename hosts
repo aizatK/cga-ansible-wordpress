@@ -1,0 +1,6 @@
+[admin]
+cga-mgmt
+
+
+[webservers]
+web01
